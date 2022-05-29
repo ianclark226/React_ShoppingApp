@@ -1,0 +1,19 @@
+.logo {
+    width: 200px;
+}
+
+.logo img {
+    width: 50px;
+    margin-right: .4rem;
+    height: 50px;
+}
+
+.logo > div {
+    display: flex;
+    align-items: center;
+}
+
+.logo p {
+    font-size: 0.7rem;
+}
+
